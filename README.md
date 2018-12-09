@@ -1,9 +1,7 @@
-# http://hassanyousuf.com/
-
 
 # hassanyousuf.com
 
-This is my portfolio website for development. You can check it out Globally by searching up hssnyousuf.com
+This is my portfolio website for development. You can check it out Globally by searching up http://hassanyousuf.com/
 
 
 ## Built With: 
